@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:weatherapp/colors.dart';
 
-class LoadingWeather extends StatelessWidget {
-  const LoadingWeather({Key? key}) : super(key: key);
+class LoadWeather extends StatelessWidget {
+  const LoadWeather({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
